@@ -1,0 +1,2 @@
+While Migrating from SSRS to Paginated Report in Power BI, you may have reports which uses SQL Server. But as part of the migration effort, what if the SQL Server is also migrated to SQL Server MI. In that case we need to update the provider to Azure SQL instead of using SQL Server. 
+This project helps modify the RDL to use AzureSQL Provider as well as allow you to update the credential to SQL Server based authentication. 
