@@ -11,6 +11,7 @@ This project uses App.Config to provide following parameters to the application.
 * ServerName    :-- ServerName of the Azure SQL MI. This will replace the existing ServerName. The database is taken from the existing Database name embeded in the report. 
 * SqlUserName   :-- SQL Login. 
 * SqlUserPassword :-- SQL user's password.
+    
 <br>Ted had recently presented on this topic and would strongly advice to watch to get insights and requirements for ClientId. <br> **Reference** [Ted Pattison's Datasource Credential ](https://www.powerbidevcamp.net/sessions/session33/)
 
 
